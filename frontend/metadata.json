@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Admin Portal",
+  "description": "A secure admin dashboard for managing users with Supabase, featuring secure login and bulk Excel upload capabilities.",
+  "requestFramePermissions": []
+}
