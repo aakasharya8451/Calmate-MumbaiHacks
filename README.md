@@ -1,15 +1,6 @@
-# Calmate - Employee Well-being Monitoring System
+# Calmate - Agentic AI-Powered Mental Health Companion for Corporate Well-being
 
-**Calmate** is an advanced, AI-driven platform designed to monitor and improve employee well-being through automated voice interactions and sentiment analysis. By leveraging the power of Generative AI, Calmate conducts empathetic check-in calls, analyzes employee feedback, and provides actionable insights to HR and management teams to foster a healthier work culture.
-
-## 🚀 Key Features
-
-*   **Automated Empathetic Check-ins**: Uses **Vapi.ai** to conduct natural, voice-based conversations with employees to gauge their mood and stress levels.
-*   **Multi-Agent Analysis**: A sophisticated backend system where multiple AI agents analyze call transcripts for sentiment, stress indicators, and potential burnout risks.
-*   **Real-time Insights Dashboard**: A modern React-based dashboard for HR to view aggregate metrics, individual employee health scores, and cultural trends.
-*   **Daily Pulse Reports**: Automated generation of PDF reports summarizing daily employee sentiment, top stressors, and common blockers, delivered via email.
-*   **Actionable Recommendations**: AI-generated suggestions for short-term and long-term actions to address identified issues.
-*   **Secure & Private**: Built with privacy in mind, ensuring employee data is handled securely.
+**Calmate** is an Agentic AI-powered Mental Health Companion that proactively connects with employees through natural, empathetic conversations on a audio phone call helping them express emotions and release work stress in a private, stigma-free way helping the corporate with anonymized, actionable well-being insights.
 
 ## 🏗️ System Architecture
 
